@@ -1,13 +1,13 @@
 {
-  "name": "بوتريو",
-  "description": "بـوت ريوثون الرسمي اوامر عربيه ممطروقه ",
+  "name": "jems",
+  "description": "بـوت jems ",
   "logo": "https://telegra.ph/file/a1e9a83240489e7aed967.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/aabas2297/https-github.com-JMTHON-AR-JMTHON-PACK",
+  "repository": "https://github.com/Gggegnd/tote",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -65,7 +65,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لا تغيـرها ابدا",
-      "value": "Jmthon-iq",
+      "value": "jemsiq",
       "required": false
     }
   },
