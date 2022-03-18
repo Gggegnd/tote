@@ -53,11 +53,6 @@
       "description": "اسم التطبيق اول اسم خليته ",
       "value": ""
     },
-    "DEFAULT_BIO": {
-      "description": "هنا خلي نبذتك حسابك الي تطلع وي البايو الوقتي ",
-      "value": "",
-      "required": false
-    },
     "TZ": {
       "description": "هنـا ضع المنطقه الزمنية الخاص بك  احصل عليه من  http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
       "value": "Asia/Baghdad",
